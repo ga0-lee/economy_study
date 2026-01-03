@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="페이지-1" id="msXp2pMfN-Qv0LjquTyy">
+    <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wT31JCWwnGiaobDatRMZ-8" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;베네수엘라 공습&lt;/li&gt;&lt;li&gt;마두로 대통령 체포&lt;/li&gt;&lt;li&gt;해상봉쇄령으로 석유 수출을 막음 = 베네수엘라 자금줄이 끊김&lt;/li&gt;&lt;li&gt;이전에 몰수당한 석유 기업 자산 탈환&lt;/li&gt;&lt;li&gt;유가 통제권 가지고 오기&lt;/li&gt;&lt;li&gt;2018년 트럼프1기 때도 마두로 정권 체포 계획을 세웠으나 철회했던 이력이 있음&lt;/li&gt;&lt;li&gt;마약 및 테러 척결&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="150" width="260" x="370" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="390" width="770" x="100" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="미국" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="베네수엘라" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="360" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-4" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;최대 원유 매장국(전세계 20%)&lt;/li&gt;&lt;li&gt;석유 무기화&lt;/li&gt;&lt;li&gt;마두로 대통령 독재 장기집권&lt;/li&gt;&lt;li&gt;마약 문제&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="80" width="226" x="470" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-5" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;과거 베네수엘라에 진출한 미국 석유 기업들의 자산을 몰수함&lt;/li&gt;&lt;li&gt;석유 무기화 하여 반미국가연합을 형성&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="80" width="260" x="380" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-6" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;90년대 미국의 원유 수입 1/5이 베네수엘라산이었음&lt;/li&gt;&lt;li&gt;미국 멕시코만 연안 정유시설의 다수는 베네수엘라산 중질유를 정유하기 위한 것 = 재가동 시킬 수 있게 되면 유가 안정에 큰 도움&lt;/li&gt;&lt;li&gt;쉐브론만 유일하게 베네수엘라에 남아 있는 미국 석유 기업&lt;/li&gt;&lt;li&gt;쉐브론을 통해 베네수엘라산 원유를 들여오고 있음&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="110" width="330" x="474" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="130" />
+            </Array>
+            <mxPoint x="360" y="130" as="sourcePoint" />
+            <mxPoint x="360" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="중국" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-12" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;과거 600억 달러 빌려줘서 베네수엘라가 석유로 갚고 있음&lt;/li&gt;&lt;li&gt;최대 원유 구매국이자 최대 채권국&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;= 베네수엘라의 자금줄&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="260" x="354" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="러시아" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-15" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;무기 수출&lt;/li&gt;&lt;li&gt;군사 훈련 지원&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="200" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="이란" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-17" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;석유정제기술 지원&lt;/li&gt;&lt;li&gt;드론 등 군사 장비 지원&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="690" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="515" as="sourcePoint" />
+            <mxPoint x="330" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="wT31JCWwnGiaobDatRMZ-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="720" y="520" as="sourcePoint" />
+            <mxPoint x="670" y="479.9952173913044" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="500" as="sourcePoint" />
+            <mxPoint x="360" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-22" parent="1" style="text;strokeColor=default;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="반미국가" vertex="1">
+          <mxGeometry height="40" width="140" x="140" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-23" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="=" vertex="1">
+          <mxGeometry height="40" width="100" x="630" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-24" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="반미 세력에 대한 경고&lt;div&gt;= 친중 세력 척결&lt;/div&gt;&lt;div&gt;= 미국 패권 강화&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="710" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wT31JCWwnGiaobDatRMZ-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="근데 왜 지금일까?&lt;div&gt;&lt;br&gt;&lt;div&gt;- 중간선거를 앞두고 새해가 되면서 행동으로 보여준 것이 아닌가 싶음&lt;/div&gt;&lt;div&gt;- 2024년의 베네수엘라 부정선거를 빌미로 민주주의를 명분으로 내세우기 좋은 타이밍&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="260" x="40" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
