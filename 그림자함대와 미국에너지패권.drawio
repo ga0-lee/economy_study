@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
+  <diagram name="페이지-1" id="VMGytwpHK2DgHizjnSDj">
+    <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T5Eumq7MZRtxox320KNn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="베네수엘라" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="이란" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-4" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;미국, EU 등 서방국가의 제재(상한가)를 무시하고 석유를 제값에 몰래 실어나르는 노후된 유조선&lt;/li&gt;&lt;li&gt;선박 자동식별장치(AIS) 끄고 다님&lt;/li&gt;&lt;li&gt;해상 환적(Ship-to-Ship)으로 원산지 세탁&lt;/li&gt;&lt;li&gt;깃발 바꿔치기(Reflagging)&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="311" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="러시아" vertex="1">
+          <mxGeometry height="60" width="120" x="353.5" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;출발국&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="379" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="중국" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="시리아/브라질 등" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="인도" vertex="1">
+          <mxGeometry height="60" width="120" x="363.5" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-16" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;도착국&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="388.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-17" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330.5" y="190" as="sourcePoint" />
+            <mxPoint x="330" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-19" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="685" y="240" as="sourcePoint" />
+            <mxPoint x="530" y="240.42291950886772" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="트럼프의 공격" vertex="1">
+          <mxGeometry height="30" width="70" x="580" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-22" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.ship" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;그림자 함대&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="128.5" x="363.5" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-23" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;물리적 압류 = 적대국 돈줄 끊고, 미국은 원유 획득&lt;/li&gt;&lt;li&gt;베네수엘라 공습 = 중국으로 가던 원유 공급 끊음&amp;nbsp; = 미국이 원유를 직접 공급하려 함 = 전세계 에너지 공급자가 미국으로 교체됨&lt;/li&gt;&lt;li&gt;트럼프의 이란 시위대 발언 = 심리적 압박 및 경고 = 결국 이란의 정권 또한 무너뜨리게 될 것임&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="540" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="T5Eumq7MZRtxox320KNn-24" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;= 미국에 대항하는 석유 카르텔 해체&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;= 미국이 에너지 패권 차지&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="250" x="570.5" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
