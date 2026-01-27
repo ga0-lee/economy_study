@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="페이지-1" id="TKc2x2CIrtW4UA8lcJSe">
+    <mxGraphModel dx="946" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cwaYyfczVy29U_NdVvDj-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;케이엠더블유(KMW)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cwaYyfczVy29U_NdVvDj-2" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;무선주파수(RF) 기술이 핵심&lt;/li&gt;&lt;li&gt;기지국에 들어가는 안테나, 필터, 시스템 장비를 생산&lt;/li&gt;&lt;li&gt;&lt;b data-path-to-node=&quot;5,1,0&quot; data-index-in-node=&quot;9&quot;&gt;MMR(Massive MIMO Radio):&lt;/b&gt; 5G 기지국의 핵심 장비로, 노키아와 공동 개발하여 유명&lt;/li&gt;&lt;li&gt;&lt;b data-path-to-node=&quot;5,1,1,0,0&quot; data-index-in-node=&quot;0&quot;&gt;MBF(Micro Bellows Filter):&lt;/b&gt; 초소형 필터로 기술력인정&lt;/li&gt;&lt;li&gt;&lt;b data-path-to-node=&quot;5,2,0&quot; data-index-in-node=&quot;0&quot;&gt;주요 고객사:&lt;/b&gt; 삼성전자, 노키아, ZTE, 에릭슨 등 글로벌 통신장비사 및 AT&amp;amp;T 등 대형 통신사&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="160" width="300" x="90" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cwaYyfczVy29U_NdVvDj-3" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;&lt;b data-path-to-node=&quot;5,2,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;미국 내 5G 주파수 경매와 네트워크 투자 재개&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b data-path-to-node=&quot;5,2,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;중국산 장비 배제 정책의 반사이익&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b data-path-to-node=&quot;5,2,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b data-path-to-node=&quot;8,1,0&quot; data-index-in-node=&quot;32&quot;&gt;2026년은 연결 기준 영업이익 흑자 전환&lt;/b&gt;이 유력시되는 &#39;골든 타임&#39;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b data-path-to-node=&quot;5,2,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b data-path-to-node=&quot;11,0,0&quot; data-index-in-node=&quot;0&quot;&gt;오픈랜(Open-RAN) 확산:&lt;/b&gt; 특정 제조사에 얽매이지 않는 오픈랜 시장이 커지면서 수요 증가&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b data-path-to-node=&quot;5,2,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5G를 넘어 6G 시대를 대비한 선행 기술 투자&lt;br&gt;&amp;gt;&amp;nbsp;&lt;/b&gt;미국 5G 투자로 적자에서 흑자 전환&lt;/li&gt;&lt;li&gt;&lt;b data-path-to-node=&quot;5,2,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;적자 시기에도 부채비율이 낮고 순현금을 보유&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="160" width="300" x="470" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cwaYyfczVy29U_NdVvDj-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;종목 분석&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="185" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cwaYyfczVy29U_NdVvDj-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;호재&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="570" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cwaYyfczVy29U_NdVvDj-6" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;대량의 데이터를 주고 받는 AI데이터센터와 사용자의 기기 간의 원활한 통신을 위해서는&amp;nbsp;&lt;b data-path-to-node=&quot;6,1,0&quot; data-index-in-node=&quot;50&quot;&gt;KMW의 고성능 필터와 안테나 장비&lt;/b&gt;가 필수적임&lt;/li&gt;&lt;li&gt;AI가 고도화될수록 중앙데이터센터까지 통신을 하는 것은 시간이 너무 오래 걸림&lt;br&gt;&amp;gt; 에지컴퓨팅(기지국 근처의 작은 데이터센터)가 필수적임&lt;br&gt;&amp;gt;&amp;nbsp; 단순 통신 장비를 넘어 더 복잡하고 고도화된 RF(무선주파수) 부품 수요 증가&lt;/li&gt;&lt;li&gt;AI와 로봇을 돌리기 위해 필요한 공장 내부 전용 프라이빗 5G망 구축&lt;br&gt;&amp;gt; 기업용(B2B) 데이터 전송 인프라 시장이 커짐&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="220" width="346" x="82" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cwaYyfczVy29U_NdVvDj-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;AI 시대에서의 역할&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="175" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="cwaYyfczVy29U_NdVvDj-8" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;KMW의 마이크로 벨로우즈 필터(MBF)는 작은 크기에 뛰어난 성능으로 고도화되는 기지국에 필수적인 소형 부품이며 이 기술은 세계최고임&lt;/li&gt;&lt;li&gt;삼성-노키아와의 파트너십&lt;br&gt;&amp;gt; 삼성이 미국에서 대규모수주를 받는지 체크하기&lt;/li&gt;&lt;li&gt;기술력은 좋으면서 중국색이 없는 기업이라 미국과 유럽시장에서 중국산의 좋은 대안임&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="160" width="300" x="475" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="cwaYyfczVy29U_NdVvDj-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;경쟁사와 비교했을 때&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="565" y="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
