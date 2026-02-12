@@ -1,0 +1,138 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="페이지-1" id="qWrKJl_MyxRs7S_I667R">
+    <mxGraphModel dx="1940" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;에레보르 은행&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="320" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-31" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;&lt;h3 data-path-to-node=&quot;4&quot;&gt;설립 목적: 제2의 SVB를 넘어서는 은행&lt;/h3&gt;&lt;/li&gt;&lt;ul data-path-to-node=&quot;5&quot;&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;5,0,0&quot;&gt;&lt;b data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;0&quot;&gt;공백 메우기:&lt;/b&gt; 2023년 실리콘밸리 은행(SVB)의 파산 이후, 전통적인 은행으로부터 외면받거나 대출이 어려운 &lt;b data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;62&quot;&gt;스타트업, AI 기업, 국방 기술 기업&lt;/b&gt;들을 위한 전용 금융 창구가 되는 것이 목표&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;5,1,0&quot;&gt;&lt;b data-path-to-node=&quot;5,1,0&quot; data-index-in-node=&quot;0&quot;&gt;혁신 경제 특화:&lt;/b&gt; 일반 대중보다는 AI 데이터센터용 GPU 장비 금융(Equipment Financing), 국방 기술 스타트업 대출, 가상자산 기반 대출 등 기술 기업 맞춤형 서비스를 제공&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;h3 data-path-to-node=&quot;6&quot;&gt;핵심 비즈니스 모델 및 서비스&lt;/h3&gt;&lt;/li&gt;&lt;ul data-path-to-node=&quot;7&quot;&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;7,0,0&quot;&gt;&lt;b data-path-to-node=&quot;7,0,0&quot; data-index-in-node=&quot;0&quot;&gt;암호화폐(비트코인/스테이블코인) 통합:&lt;/b&gt; 단순한 은행업을 넘어 비트코인 수탁, 스테이블코인 거래 및 결제 시스템을 은행 시스템 내부에 직접 통합함. 이는 전통 금융과 블록체인 경제를 연결하는 역할&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;7,1,0&quot;&gt;&lt;b data-path-to-node=&quot;7,1,0&quot; data-index-in-node=&quot;0&quot;&gt;24/7 결제:&lt;/b&gt; 블록체인 기반 결제 레일을 사용하여 기존 은행 업무 시간(월~금)에 구애받지 않고 연중무휴 실시간 결제가 가능한 인프라를 구축.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;7,2,0&quot;&gt;&lt;b data-path-to-node=&quot;7,2,0&quot; data-index-in-node=&quot;0&quot;&gt;디지털 온리(Digital-Only):&lt;/b&gt; 오프라인 지점 없이 모바일 앱과 웹 플랫폼을 통해서만 운영.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;h3 data-path-to-node=&quot;8&quot;&gt;최근 규제 현황 (2025-2026)&lt;/h3&gt;&lt;ul data-path-to-node=&quot;9&quot;&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;9,0,0&quot;&gt;&lt;b data-path-to-node=&quot;9,0,0&quot; data-index-in-node=&quot;0&quot;&gt;연방 은행 헌장 획득:&lt;/b&gt; 2026년 2월 초, 미 통화감독청(OCC)으로부터 최종적인 &lt;b data-path-to-node=&quot;9,0,0&quot; data-index-in-node=&quot;47&quot;&gt;국가 은행 헌장(National Bank Charter)&lt;/b&gt; 승인을 받음. 이는 미국 전역에서 합법적으로 은행 업무를 수행할 수 있는 강력한 면허임.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;9,1,0&quot;&gt;&lt;b data-path-to-node=&quot;9,1,0&quot; data-index-in-node=&quot;0&quot;&gt;FDIC 승인:&lt;/b&gt; 2025년 12월, 연방예금보험공사(FDIC)로부터 예금 보험 가입 승인을 받아 고객 예치금에 대한 안전성을 확보함.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;9,2,0&quot;&gt;&lt;b data-path-to-node=&quot;9,2,0&quot; data-index-in-node=&quot;0&quot;&gt;정치적 배경:&lt;/b&gt; 트럼프 2기 행정부 출범 이후 처음으로 승인된 신규 국립은행이라는 점에서, 향후 가상자산 및 기술 혁신에 우호적인 금융 규제 환경의 신호탄으로 해석 가능.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;h3 data-path-to-node=&quot;8&quot;&gt;&lt;/h3&gt;&lt;h3 data-path-to-node=&quot;6&quot;&gt;&lt;/h3&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="480" width="520" x="310" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="서클 인터넷" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-33" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;에레보르가 은행으로 출범한 이유&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;div&gt;은행 면허라는 막강한 방패로 규제 회피와 신뢰도 쌓기 위함&lt;br&gt;&amp;gt; 기존의 암호화폐 기업들은 돈의 출처가 불분명하다는 이유로 기존 은행의 제재를 받았음&lt;br&gt;&amp;gt;&amp;gt; 에레보르는&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;자신들만의 기준으로 암호화폐 기업에 계좌를 열어주고 송금을 처리해 줄 수 있음&lt;br&gt;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;미국 통화감독청(OCC)과 연방예금보험공사(FDIC)의 승인을 받았다는 건, 국가가 인정하는 제도권에 들어왔다는 뜻이므로&lt;br&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;기관 투자자들이 안심하고 큰돈을 맡길 수 있는 유일한 통로가 될 것&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;대출 레버리지 떄문&lt;br&gt;&amp;gt; 일반적인 투자사(VC)는 자기 자본이나 펀드 자금으로만 투자하지만, &lt;b data-path-to-node=&quot;8,0,0&quot; data-index-in-node=&quot;49&quot;&gt;은행은 고객이 맡긴 예금을 바탕으로 그보다 몇 배나 많은 돈을 대출&lt;/b&gt;해 줄 수 있음&lt;br&gt;&amp;gt; 현재 실리콘밸리의 AI스타트업들이 가치 평가를 못한단 이유로 기존 은행에서 대출을 못받고 있음&lt;br&gt;&amp;gt;&amp;gt; 에레보르는 자체 시스템으로 평가하여 고금리로 대출해줄 수 있음&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;암호화폐를 다루지만 결국 법정화폐(달러)로 바꿔야 함&lt;br&gt;&amp;gt; 에레보르는 은행 내부에 &lt;b data-path-to-node=&quot;11,0,0&quot; data-index-in-node=&quot;63&quot;&gt;&#39;스테이블코인&#39;&lt;/b&gt; 기반의 결제망을 깔아서, 1년 365일 24시간 즉시 달러 송금이 가능하게 만들고&lt;br&gt;&amp;gt;&amp;gt; 암호화폐를 담보로 잡고 달러를 빌려주는 서비스를 합법적인 은행 서비스로 편입시켜 시장을 독점하려는 전략&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;h3 data-path-to-node=&quot;8&quot;&gt;&lt;/h3&gt;&lt;h3 data-path-to-node=&quot;6&quot;&gt;&lt;/h3&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="305" width="510" x="860" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-35" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="330" width="410" x="-210" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-34" parent="rkfdZNS9rXuOMsCE69ts-35" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="330" width="410" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-21" edge="1" parent="rkfdZNS9rXuOMsCE69ts-35" source="rkfdZNS9rXuOMsCE69ts-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.4;exitDx=0;exitDy=0;entryX=0.61;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="47" />
+              <mxPoint x="170" y="47" />
+            </Array>
+            <mxPoint x="280" y="47" as="sourcePoint" />
+            <mxPoint x="171" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-22" connectable="0" parent="rkfdZNS9rXuOMsCE69ts-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="이사회 의장" vertex="1">
+          <mxGeometry relative="1" x="-0.3333" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-14" parent="rkfdZNS9rXuOMsCE69ts-35" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="피터 틸" vertex="1">
+          <mxGeometry height="60" width="60" x="290" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-20" edge="1" parent="rkfdZNS9rXuOMsCE69ts-35" source="rkfdZNS9rXuOMsCE69ts-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;align=center;" target="rkfdZNS9rXuOMsCE69ts-17" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;공동창업자&lt;/span&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-15" parent="rkfdZNS9rXuOMsCE69ts-35" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="조 론스데일" vertex="1">
+          <mxGeometry height="60" width="60" x="290" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-24" edge="1" parent="rkfdZNS9rXuOMsCE69ts-35" source="rkfdZNS9rXuOMsCE69ts-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="rkfdZNS9rXuOMsCE69ts-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-25" connectable="0" parent="rkfdZNS9rXuOMsCE69ts-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="CEO" vertex="1">
+          <mxGeometry relative="1" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-16" parent="rkfdZNS9rXuOMsCE69ts-35" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="팔머 러키" vertex="1">
+          <mxGeometry height="60" width="60" x="290" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-17" parent="rkfdZNS9rXuOMsCE69ts-35" style="rounded=0;whiteSpace=wrap;html=1;" value="팔란티어" vertex="1">
+          <mxGeometry height="50" width="100" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-23" parent="rkfdZNS9rXuOMsCE69ts-35" style="rounded=0;whiteSpace=wrap;html=1;" value="안두릴" vertex="1">
+          <mxGeometry height="50" width="100" x="120" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-28" edge="1" parent="rkfdZNS9rXuOMsCE69ts-35" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="215" />
+              <mxPoint x="50" y="120" />
+            </Array>
+            <mxPoint x="120" y="250" as="sourcePoint" />
+            <mxPoint x="120" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-29" parent="rkfdZNS9rXuOMsCE69ts-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="미국 국방 기업" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-36" parent="rkfdZNS9rXuOMsCE69ts-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;에레보르 창업자&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-47" edge="1" parent="rkfdZNS9rXuOMsCE69ts-35" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rkfdZNS9rXuOMsCE69ts-46" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="40" as="sourcePoint" />
+            <mxPoint x="400" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-48" connectable="0" parent="rkfdZNS9rXuOMsCE69ts-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="좋아하는 톨킨의 판타지 세계관 속 장소" vertex="1">
+          <mxGeometry relative="1" x="0.0355" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-49" parent="rkfdZNS9rXuOMsCE69ts-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="《반지의 제왕》에서 아라곤이 휘두르는 전설의 검 = 톨킨" vertex="1">
+          <mxGeometry height="30" width="190" x="130" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-50" parent="rkfdZNS9rXuOMsCE69ts-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="모든 것을 꿰뚫어 보는 &lt;b data-path-to-node=&quot;11,1,1,0&quot; data-index-in-node=&quot;13&quot;&gt;수정 구슬 = 톨킨&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="220" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-37" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=34;endSize=14;endWidth=48;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="180" as="sourcePoint" />
+            <mxPoint x="320" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="단순 은행이 아닌 금융 데이터 분석 엔진을 창업한 것" vertex="1">
+          <mxGeometry height="80" width="90" x="230" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-39" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;에레보르가 기존 은행과 어떻게 다를까?&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;5,0,0&quot;&gt;&lt;b data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;0&quot;&gt;실시간 기업 가치 평가:&lt;/b&gt; AI 스타트업이 보유한 GPU의 가동률, 소프트웨어 코드 업데이트 빈도, 클라우드 트래픽 등을 실시간 데이터로 분석하여 이 회사가 정말 대출금을 갚을 능력이 있는지 판단함&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;5,1,0&quot;&gt;&lt;b data-path-to-node=&quot;5,1,0&quot; data-index-in-node=&quot;0&quot;&gt;보이지 않는 자산 측정:&lt;/b&gt; 전통 은행이 무형 자산이라며 거절할 때, 에레보르는 기술적 우위를 수치화하여 공격적으로 대출을 실행할 수 있음&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;8,0,0&quot;&gt;&lt;b data-path-to-node=&quot;8,0,0&quot; data-index-in-node=&quot;0&quot;&gt;온체인+오프라인 데이터 통합:&lt;/b&gt; 팔란티어의 &#39;고담(Gotham)&#39;이나 &#39;파운드리(Foundry)&#39;가 하는 일이 흩어진 정보를 하나로 엮는 것임&lt;br&gt;&amp;gt; 에레보르는 블록체인상의 지갑 주소(온체인)와 현실 세계의 신원 및 거래 내역(오프라인)을 결합해 아주 미세한 이상 거래 징후도 즉각 포착할 수 있는 시스템을 갖출 것임&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;= 이는 규제 당국(OCC, FDIC)에 &quot;우리는 기존 은행보다 더 똑똑하게 범죄 자금을 걸러낼 수 있다&quot;는 강력한 명분을 줄 수 있음&lt;br&gt;= 신뢰도 상승&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;11,0,0&quot;&gt;&lt;b data-path-to-node=&quot;11,0,0&quot; data-index-in-node=&quot;0&quot;&gt;공급망 데이터 분석:&lt;/b&gt; 국방 스타트업이 정부 계약을 따내기 위해 필요한 초기 자본을 대출해 줄 때, 팔란티어식 분석을 통해 해당 계약의 성사 가능성과 공급망 리스크를 미리 계산할 것&lt;/p&gt;&lt;/li&gt;&lt;p data-path-to-node=&quot;8,0,0&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;11,1,0&quot;&gt;&lt;b data-path-to-node=&quot;11,1,0&quot; data-index-in-node=&quot;0&quot;&gt;폐쇄형 금융 생태계:&lt;/b&gt; 피터 틸과 조 론스데일이 투자한 기업들(팔란티어, 안두릴, xAI 등)끼리 에레보르라는 하나의 데이터·금융 플랫폼 안에서 돈과 데이터를 주고받는 &#39;기술-금융 복합체&#39;를 만드는 것이 최종 그림일 수 있음&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;h3 data-path-to-node=&quot;8&quot;&gt;&lt;/h3&gt;&lt;h3 data-path-to-node=&quot;6&quot;&gt;&lt;/h3&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="320" width="510" x="870" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-41" edge="1" parent="1" source="rkfdZNS9rXuOMsCE69ts-31" style="endArrow=none;html=1;rounded=0;entryX=0.6;entryY=1.008;entryDx=0;entryDy=0;exitX=0.337;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" target="rkfdZNS9rXuOMsCE69ts-32" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="610" />
+              <mxPoint x="230" y="610" />
+            </Array>
+            <mxPoint x="508.1199999999999" y="510.48" as="sourcePoint" />
+            <mxPoint x="200" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-43" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=46;endSize=12.5;width=28;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="620" as="sourcePoint" />
+            <mxPoint x="350" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-45" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;에레보르 은행과 스테이블 코인&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;3,0,0&quot;&gt;&lt;b data-path-to-node=&quot;3,0,0&quot; data-index-in-node=&quot;0&quot;&gt;서클의 USDC를 쓸 가능성은?&lt;br&gt;:&lt;/b&gt; 에레보르 뱅크의 공동 대표인 제이콥 허시먼(Jacob Hirschman)은 USDC 발행사인 &lt;b data-path-to-node=&quot;3,0,0&quot; data-index-in-node=&quot;63&quot;&gt;서클의 고문 출신임&lt;/b&gt;. 서클의 내부 사정과 규제 대응 방식을 가장 잘 아는 인물이 은행을 이끌고 있음.&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;gt; 에레보르는 가장 규제를 잘 준수하는 기관이 목표인데, 투명성과 규제 준수를 강조하는 USDC의 성격이 에레보르의 전략과 완벽히 맞아 떨어짐.&lt;br&gt;&lt;br&gt;&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;에레보르는 서클이 발행하는 USDC의 준비금(현금 및 국채)을 보관하는 주요 수탁 은행 중 하나가 될 가능성이 큽&lt;br&gt;&lt;br&gt;&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;에레보르 내부에서 고객들은 달러(USD)와 USDC를 수수료 없이, 지연 없이 즉시 환전할 수 있는 인프라를 공유할 것&lt;br&gt;&lt;br&gt;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;최근 실리콘밸리 기업들 사이에서는 USDC를 직접 주고받는 문화가 빠르게 확산되고 있음&lt;br&gt;&amp;gt; 제품 구매나 투자할 때 USDC로 바로 송금 가능&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;3,0,0&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;자체 코인을 발행할 수도 있음&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;:&amp;nbsp;&lt;/b&gt;설립 신청서에는 &quot;스테이블코인 거래를 직접 수행하고 촉진하겠다는 의지가 명시되어 있음.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;gt; 페이팔(PayPal)이 &lt;/span&gt;&lt;b data-path-to-node=&quot;6,1,0&quot; data-index-in-node=&quot;17&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PYUSD&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;를 만든 것처럼, 피터 틸(페이팔 창업자)의 영향력 아래에 있는 에레보르가 자신들만의 은행 발행 스테이블코인을 내놓을 수 있음. &lt;br&gt;&amp;gt; 이는 은행 예금과 1:1로 연동되어 기존 암호화폐보다 훨씬 높은 신뢰도를 가질 것임&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;3,0,0&quot;&gt;AI 에이전트 전용 결제 코인&lt;br&gt;:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;안두릴의 드론이나 팔란티어의 소프트웨어가 스스로 필요한 리소스를 구매하거나 결제할 때 사용할 &lt;/span&gt;&lt;b data-path-to-node=&quot;9,0,0&quot; data-index-in-node=&quot;56&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&#39;기계 간 결제(Machine-to-Machine) 전용 스테이블코인&#39;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; 인프라를 에레보르가 제공할 확률이 킄&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;h3 data-path-to-node=&quot;8&quot;&gt;&lt;/h3&gt;&lt;h3 data-path-to-node=&quot;6&quot;&gt;&lt;/h3&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="560" width="530" x="130" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="rkfdZNS9rXuOMsCE69ts-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="거대한 보물이 저장된 안전한 요새" vertex="1">
+          <mxGeometry height="40" width="180" x="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
